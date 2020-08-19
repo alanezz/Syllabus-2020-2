@@ -5,3 +5,4 @@ Puedes descargar las clases desde la siguiente [carpeta compartida](https://alum
 También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las clases del curso.
 
 - [Clase 01 - Introducción](https://youtu.be/CLEKffXS6Vs)
+- [Clase 02 - Python y Numpy](https://youtu.be/hLtnnEsqJbI)
