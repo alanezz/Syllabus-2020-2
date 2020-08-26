@@ -6,3 +6,4 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 
 - [Clase 01 - Introducción](https://youtu.be/CLEKffXS6Vs)
 - [Clase 02 - Python y Numpy](https://youtu.be/hLtnnEsqJbI)
+- [Clase 03 - Pandas y Scikit Learn](https://youtu.be/_euB6Ko6rsA)
