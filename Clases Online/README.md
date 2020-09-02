@@ -7,4 +7,4 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 01 - Introducción](https://youtu.be/CLEKffXS6Vs)
 - [Clase 02 - Python y Numpy](https://youtu.be/hLtnnEsqJbI)
 - [Clase 03 - Pandas y Scikit Learn](https://youtu.be/wiqScM1qZ0I)
-- [Clase 03 - Clasificación y medidas de desempeño pt. 1](https://youtu.be/u7pFKW47hEI)
+- [Clase 04 - Clasificación y medidas de desempeño pt. 1](https://youtu.be/u7pFKW47hEI)
