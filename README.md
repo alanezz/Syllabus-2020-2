@@ -1,5 +1,11 @@
 # ING559 - Métodos de Aprendizaje de Máquinas en Data Science
 
+## Notas
+
+Si eres alumno del curso puedes encontrar tus notas [aquí](https://docs.google.com/spreadsheets/d/1NUkfwFQvWtoB6-i3suTd8MaxqtGHhTekOHkSIsHvocs/edit?usp=sharing) :smile:.
+
+## Descripción del curso
+
 Durante el curso el alumno aprenderá el flujo de trabajo que debe seguir un _data scientist_ al involucrarse en un proyecto de _Machine Learning_. También se espera que el alumno obtenga conocimiento de los modelos y técnicas más famosas del área tanto a nivel teórico como práctico:
 
 - Desde el punto de vista teórico, el alumno aprenderá la formalización del problema de aprendizaje desde el punto de vista estadístico. Además, el alumno será capaz de entender los fundamentos teóricos de los modelos vistos en este curso.
