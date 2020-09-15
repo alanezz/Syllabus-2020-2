@@ -13,3 +13,6 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 # Talleres
 
 - [Taller 01 - Terminal y Servidores](https://youtu.be/L93BPUL1Hv8)
+
+# Otros
+- [Consultas Naive Bayes](https://youtu.be/rCbxiBiI4vI)
