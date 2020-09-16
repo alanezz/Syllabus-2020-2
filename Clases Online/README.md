@@ -9,6 +9,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 03 - Pandas y Scikit Learn](https://youtu.be/wiqScM1qZ0I)
 - [Clase 04 - Clasificación y medidas de desempeño pt. 1](https://youtu.be/u7pFKW47hEI)
 - [Clase 05 - Desempeño pt. 2 - Clasificación Multiclase - Naive Bayes](https://youtu.be/CdfBznWYdwk)
+- [Clase 06 - Regresión Lineal y Gradient Descent](https://youtu.be/HblwS9uQ808)
 
 # Talleres
 
