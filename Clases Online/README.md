@@ -18,3 +18,4 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 
 # Otros
 - [Consultas Naive Bayes](https://youtu.be/rCbxiBiI4vI)
+- [Consultas Regresión Logística](https://youtu.be/LS3WB8M3fMI)
