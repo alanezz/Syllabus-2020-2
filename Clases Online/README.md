@@ -12,6 +12,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 06 - Regresión Lineal y Gradient Descent](https://youtu.be/HblwS9uQ808)
 - [Clase 07 - Regresión Logística y Softmax](https://youtu.be/_AwjhBK1D40)
 - [Clase 08 - Análisis Teórico del Error](https://youtu.be/XNkyzlx4r7M)
+- [Clase 09 - KNN, Features y SVM](https://youtu.be/fRjZFvt_8VU)
 
 # Talleres
 
