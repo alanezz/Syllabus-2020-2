@@ -21,12 +21,12 @@ Finalmente, también se contempla estudiar técnicas para medir el desempeño de
 | Actividad 02 | 09 de septiembre | Clasificación y Naive Bayes |
 | Control 01 | 16 de septiembre | Regresión Lineal, Polinomial y Gradient Descent |
 | Actividad 03 | 30 de septiembre | Regresión Logística |
-| Actividad 04 | 14 de octubre | SVM y Kernels |
-| Control 02 | 28 de octubre | Árboles de Decisión |
-| Actividad 05 | 04 de noviembre | Random Forest y Boosting |
-| Actividad 06 | 11 de noviembre | Reducción de Dimensionalidad y Clustering |
-| Control 03 | 18 de noviembre | Introducción a Redes Neuronales |
-| Actividad 07 | 25 de noviembre | Redes Convolucionales |
+| Actividad 04 | 28 de octubre | SVM y Kernels |
+| Control 02 | 04 de noviembre | Árboles de Decisión |
+| Actividad 05 | 11 de noviembre | Random Forest y Boosting |
+| Actividad 06 | 18 de noviembre | Reducción de Dimensionalidad y Clustering |
+| Control 03 | 25 de noviembre | Introducción a Redes Neuronales |
+| Actividad 07 | 02 de diciembre | Redes Convolucionales |
 
 ## Foro
 
