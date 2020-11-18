@@ -16,6 +16,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 10 - SVM y Kernel](https://youtu.be/BDjIe1dbp-A)
 - [Clase 11 - Árboles de Decisión](https://youtu.be/ZyI03fTafak)
 - [Clase 12 - Random Forests](https://youtu.be/ALivu-yHeQk)
+- [Clase 13 - Reducción de Dimensionalidad y Clustering](https://youtu.be/2kx1DP-BxxA)
 
 # Talleres
 
