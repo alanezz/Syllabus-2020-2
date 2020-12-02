@@ -18,6 +18,7 @@ También te dejo el listado a los links a YouTube para que puedas ver a 1.5x las
 - [Clase 12 - Random Forests](https://youtu.be/ALivu-yHeQk)
 - [Clase 13 - Reducción de Dimensionalidad y Clustering](https://youtu.be/2kx1DP-BxxA)
 - [Clase 14 - Redes Neuronales](https://youtu.be/hbzXwpJgsKc)
+- [Clase 15 - CNN](https://youtu.be/18Us3gl8mhc) 
 
 # Talleres
 
